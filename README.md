@@ -1,2 +1,2 @@
 # digital-invitation
-PlayList: FEW DProjects Tutorial: 01
+PlayList: FEWD Projects Tutorial: 01
